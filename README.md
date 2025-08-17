@@ -45,3 +45,33 @@ The project uses the *Pima Indians Diabetes Dataset*, which includes features li
 ```bash
 git clone https://github.com/your-username/diabetes-prediction-ml.git
 cd diabetes-prediction-ml
+```
+
+### ▶ Run the script  
+Make sure all dependencies are installed. You can use:
+```bash
+pip install -r requirements.txt
+python diabetes_prediction.py
+```
+
+---
+
+## 📈 Results  
+The performance of different models on the dataset:
+
+| Model              | Accuracy |
+|--------------------|----------|
+| Logistic Regression| 76.6%    |
+| Random Forest      | 82.4%    |
+| SVM (RBF Kernel)   | 78.9%    |
+
+✅ **Best Model:** *Random Forest* achieved the highest accuracy and performed well on both sensitivity and specificity metrics.
+
+---
+
+## 📬 Contact  
+
+For queries or collaboration:  
+📧 Email: aksingh302005@gmail.com  
+💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/aditya-singh-rajput2005)  
+🌐 GitHub: [github.com/your-username](https://github.com/aditya30-2005-eng)
